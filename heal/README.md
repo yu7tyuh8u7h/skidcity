@@ -21,3 +21,6 @@ A public repository for the heal clone.
 ## Donate
 > Consider joining the heal bot remake server, better support, and we will be frequent updating this.
 - Cashapp: $offwhite3s
+
+## Credits
+This replica is made by **@asyncpg**
