@@ -1,3 +1,3 @@
-# FULCRUM
+# GOV
 A Discord bot made by **asf**
 > leaked by (`github/vqea`)
